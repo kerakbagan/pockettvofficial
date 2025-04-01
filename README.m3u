@@ -371,7 +371,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd
 
 ======movie======
-
 #EXTINF:-1 tvg-id="289.unifi" ch-number="289" tvg-name="CCM" group-title="MOVIES" tvg-logo="https://get.perfecttv.net/logo/ccm.png",135 CCM
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a642dd4bf3ea782e19202adefb604b10:3f59355e15eed1bb219ea1687d55cfbb
@@ -447,7 +446,6 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://get.perfecttv.net/astro_1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=cinemax
 
-
 #EXTINF:-1 group-logo="" group-title="MOVIES" tvg-id="413.astro" tvg-logo="https://get.perfecttv.net/logo/showcase.png" ,146 Showcase Movies 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -515,7 +513,6 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c9ec474742854a9c95bdc93682eadb87:c74ecc2bac2876d4b709c0ec01eaa6c2
 https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=mycinemaasia
-
 
 #EXTINF:-1 tvg-id="" tvg-name="GALAXY PREMIUM" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34273210_ico.png?ts=1743516477" group-title="MOVIES", GALAXY PREMIUM
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
