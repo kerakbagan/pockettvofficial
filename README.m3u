@@ -516,11 +516,6 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.license_key=c9ec474742854a9c95bdc93682eadb87:c74ecc2bac2876d4b709c0ec01eaa6c2
 https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=mycinemaasia
 
-#EXTINF:-1 tvg-id="" tvg-name="GALAXY HD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34273210_ico.png?ts=1743516010" group-title="MOVIES", GALAXY HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c9ec474742854a9c95bdc93682eadb87:c74ecc2bac2876d4b709c0ec01eaa6c2
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2686.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="GALAXY PREMIUM" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34273210_ico.png?ts=1743516477" group-title="MOVIES", GALAXY PREMIUM
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c9ec474742854a9c95bdc93682eadb87:c74ecc2bac2876d4b709c0ec01eaa6c2
